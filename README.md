@@ -7,3 +7,6 @@ API中还定义了运行远程下载管理政策的生命周期管理。服务�
 
 # 原理流程
 ![](http://showfl.com/other-file/osgi.png)
+
+# 上线时间
+即将上线，敬请期待。
